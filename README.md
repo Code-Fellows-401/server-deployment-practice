@@ -16,9 +16,15 @@ Review server setup and instalation. What is the appropriate file-tree setup and
 
 ## Links to application deployment
 
-## Include embedded UML
+POST: https://server-deployment-test.herokuapp.com/talk?search=hi  
+GET: https://server-deployment-test.herokuapp.com/repeat
 
-Insert a WhiteBoard of how this works.
+Heroku: https://server-deployment-test.herokuapp.com
+GitHub: https://github.com/Code-Fellows-401/server-deployment-practice
+
+## Embedded UML
+
+![whiteBoard](./images/UML-example.png)
 
 ## Talk about your routes
 
